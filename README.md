@@ -14,3 +14,5 @@ http://www.espacefrancais.com/liste-des-verbes-intransitifs/
 http://leflemad.blogspot.fr/2016/02/listes-des-verbes-transitifs-et.html
 
 http://www.espacefrancais.com/les-verbes-intransitifs/
+
+https://fr.wiktionary.org/wiki/Cat%C3%A9gorie:Verbes_en_fran%C3%A7ais
