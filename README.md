@@ -12,7 +12,7 @@ poellgor@bedniverel.bzh - https://bedniverel.bzh
 
 You will find an exhaustive list of transitiv-verbs in Breton.
 
-## III. This work is based on this websites
+## III. This work is based on
 
 https://www.conjugaisonfrancaise.com/verbes/liste-verbes-transitifs-directs.html
 
